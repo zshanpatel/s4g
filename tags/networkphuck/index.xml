@@ -1,0 +1,39 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Site – Networkphuck</title>
+    <link>/tags/networkphuck/</link>
+    <description>Recent content in Networkphuck on My Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 May 2025 00:16:53 +0100</lastBuildDate>
+    
+	  <atom:link href="/tags/networkphuck/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Strategy</title>
+      <link>/docs/strategy/</link>
+      <pubDate>Wed, 21 May 2025 00:16:53 +0100</pubDate>
+      
+      <guid>/docs/strategy/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Obsidian&lt;/strong&gt;
+This is either an amazing idea or another learning curve.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The setup&lt;/strong&gt;
+Create a new folder labelled posts. This is where you will add your posts.
+&amp;hellip; that&amp;rsquo;s all you have to do.
+And, find out where your Obsidian directories are. Right click your posts folder and choose show in system explorer.
+You&amp;rsquo;ll need this directory in the upcoming days.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
